@@ -1,18 +1,18 @@
 # Xovi Extensions
 
-This Repo consists of multiple Xovi (.qmd) extensions that are QoL improvements to the xochitl interface. This **needs** qt-resource-rebuilder.so to work.
+This repo consists of multiple xovi (.qmd) extensions that are QoL improvements to the xochitl interface. These require qt-resource-rebuilder.so to work.
 
 Instructions to install xovi can be found [here](https://github.com/asivery/rmpp-xovi-extensions/blob/master/INSTALL.MD). 
 
 Download the extensions from the folder matching your reMarkable software version. 
 
-Copy the `.qmd` files to `/home/root/xovi/exthome/qt-resource-rebuilder/` and restart xovi. 
+Copy the `.qmd` files to `/home/root/xovi/exthome/qt-resource-rebuilder/` and restart xovi.
 
-Some of the QMD files in this repo are my own and some are modifications I've made to extensions created by others in the community. Modifications will link the the original author.
+Some of the QMD files in this repo are my own and some are modifications I've made to extensions created by others in the community. Modifications will link to the original author.
 
-They have been tested only for the reMarkable OS versions listed, though they may work on newer versions.
+Extensions have been tested only for the latest reMarkable OS version, though they may work on newer versions.
 
-New changes will only be applied to the latest reMarkable release. Beta releases are not tested nor supported.
+Beta releases are not tested nor supported.
 
 ## Extensions
 
