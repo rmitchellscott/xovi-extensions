@@ -1,4 +1,5 @@
-; original: https://github.com/ingatellent/xovi-qmd-extensions/blob/main/3.22/gestures.qmd
+; Original: ingatellent (https://github.com/ingatellent)
+; Modified by: Mitchell Scott (https://github.com/rmitchellscott)
 
 AFFECT [[17298303916558156758]]
 IMPORT [[2229053515467982396]] 1.0

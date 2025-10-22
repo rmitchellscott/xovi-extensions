@@ -1,3 +1,6 @@
+; Mitchell Scott (https://github.com/rmitchellscott)
+; SPDX-License-Identifier: MIT
+
 AFFECT [[13151316468101634456]]
     TRAVERSE [[8397788359424131273]]
         REPLACE [[6332993169457122379]] WITH {
