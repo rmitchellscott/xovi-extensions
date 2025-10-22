@@ -41,3 +41,6 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 **Modifications I've made**
 - Changed text from "Zzz..." to "Sleeping"
 - Added white background to the sleeping text
+
+### 4. unlockMethodsContent.qmd
+Bypass subscription check for using on-device Methods templates and documents.
