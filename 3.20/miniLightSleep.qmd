@@ -1,4 +1,5 @@
-; original: https://github.com/StarNumber12046/xovi-qmd-extensions/blob/main/miniLightSleep.qmd
+; Original: StarNumber12046 (https://github.com/StarNumber12046)
+; Modified by: Mitchell Scott (https://github.com/rmitchellscott)
 
 AFFECT [[4993120499307475167]] 
     IMPORT device.ui.text 1.0

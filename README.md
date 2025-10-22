@@ -44,3 +44,8 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 
 ### 4. unlockMethodsContent.qmd
 Bypass subscription check for using on-device Methods templates and documents.
+
+## License
+
+- **Original works** are licensed under the MIT License (see [LICENSE](LICENSE)).
+- **Derivative works** retain attribution to their original authors - see individual file headers for details.
