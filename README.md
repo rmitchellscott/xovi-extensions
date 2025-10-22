@@ -8,7 +8,7 @@ Download the extensions from the folder matching your reMarkable software versio
 
 Copy the `.qmd` files to `/home/root/xovi/exthome/qt-resource-rebuilder/` and restart xovi. 
 
-The QMD files in this repo are modifications I've made to extensions created by others in the community.
+Some of the QMD files in this repo are my own and some are modifications I've made to extensions created by others in the community. Modifications will link the the original author.
 
 They have been tested only for the reMarkable OS versions listed, though they may work on newer versions.
 
@@ -30,7 +30,10 @@ PDF links in the tap area cannot be used while the toolbar is closed, show the t
 **Modifications I've made**
  - Removed the 4-finger contrast filter gesture
 
-### 2. miniLightSleep.qmd
+### 2. hideZoomIndicator.qmd
+Auto-hide zoom indicator after 4 seconds (like the scrollbars)
+
+### 3. miniLightSleep.qmd
 **Original**: https://github.com/StarNumber12046/xovi-qmd-extensions
 
 Replaces the light sleep banner with text saying "Sleeping" at the top right of the screen
