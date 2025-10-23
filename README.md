@@ -30,10 +30,13 @@ PDF links in the tap area cannot be used while the toolbar is closed, show the t
 **Modifications I've made**
  - Removed the 4-finger contrast filter gesture
 
-### 2. hideZoomIndicator.qmd
-Auto-hide zoom indicator after 4 seconds (like the scrollbars)
+### 2. hideDevModeIcon.qmd
+Hide the developer mode icon next to the battery icon.
 
-### 3. miniLightSleep.qmd
+### 3. hideZoomIndicator.qmd
+Auto-hide zoom indicator after 4 seconds (like the scrollbars).
+
+### 4. miniLightSleep.qmd
 **Original**: https://github.com/StarNumber12046/xovi-qmd-extensions
 
 Replaces the light sleep banner with text saying "Sleeping" at the top right of the screen
@@ -42,7 +45,7 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 - Changed text from "Zzz..." to "Sleeping"
 - Added white background to the sleeping text
 
-### 4. unlockMethodsContent.qmd
+### 5. unlockMethodsContent.qmd
 Bypass subscription check for using on-device Methods templates and documents.
 
 ## License
