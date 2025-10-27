@@ -45,7 +45,16 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 - Changed text from "Zzz..." to "Sleeping"
 - Added white background to the sleeping text
 
-### 5. unlockMethodsContent.qmd
+### 5. quickSettingsScreenshot.qmd
+Adds a screenshot button to the quick settings menu.  
+_See required repos for supported devices._
+
+Requires:
+- [rm-shot](https://github.com/rmitchellscott/rm-shot)
+- [framebuffer-spy](https://github.com/asivery/rm-xovi-extensions)
+- [xovi-message-broker](https://github.com/asivery/rm-xovi-extensions)
+
+### 6. unlockMethodsContent.qmd
 Bypass subscription check for using on-device Methods templates and documents.
 
 ## License
