@@ -1,6 +1,5 @@
 ; Original: ingatellent (https://github.com/ingatellent)
 ; Modified by: Mitchell Scott (https://github.com/rmitchellscott)
-; Modified: 2025-10-22T22:59:27Z
 
 AFFECT [[17298303916558156758]]
 IMPORT [[2229053515467982396]] 1.0
