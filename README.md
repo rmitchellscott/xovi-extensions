@@ -46,7 +46,7 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 - Added white background to the sleeping text
 
 ### 5. preventNotebookZoomOut.qmd
-Forces all notebook pages to start at 1x zoom with optional horizontal offset. Only affects notebooks. Designed for the Paper Pro Move.
+Forces all notebook pages to start at 1x zoom with optional horizontal offset. Only affects notebooks, only affects portrait orientation. Designed for the Paper Pro Move.
 
 ### 6. quickSettingsScreenshot.qmd
 Adds a screenshot button to the quick settings menu.  
