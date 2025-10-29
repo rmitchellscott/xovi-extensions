@@ -45,7 +45,10 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 - Changed text from "Zzz..." to "Sleeping"
 - Added white background to the sleeping text
 
-### 5. quickSettingsScreenshot.qmd
+### 5. preventNotebookZoomOut.qmd
+Forces all notebook pages to start at 1x zoom with optional horizontal offset. Only affects notebooks. Designed for the Paper Pro Move.
+
+### 6. quickSettingsScreenshot.qmd
 Adds a screenshot button to the quick settings menu.  
 _See required repos for supported devices._
 
@@ -54,7 +57,7 @@ Requires:
 - [framebuffer-spy](https://github.com/asivery/rm-xovi-extensions)
 - [xovi-message-broker](https://github.com/asivery/rm-xovi-extensions)
 
-### 6. unlockMethodsContent.qmd
+### 7. unlockMethodsContent.qmd
 Bypass subscription check for using on-device Methods templates and documents.
 
 ## License
