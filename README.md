@@ -50,6 +50,7 @@ Forces all notebook pages to start at 1x zoom with optional horizontal offset. O
 
 ### 6. quickSettingsScreenshot.qmd
 Adds a screenshot button to the quick settings menu.  
+Screenshots will be placed in `/home/root/screenshots`.  
 _See required repos for supported devices._
 
 Requires:
