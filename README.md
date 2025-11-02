@@ -16,7 +16,10 @@ Beta releases are not tested nor supported.
 
 ## Extensions
 
-### 1. gestures.qmd
+### 1. fixQuickSettingsTempSeparator.qmd
+Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.
+
+### 2. gestures.qmd
 **Original**: https://github.com/ingatellent/xovi-qmd-extensions
 
 Add the following gestures and tap areas:
@@ -30,13 +33,13 @@ PDF links in the tap area cannot be used while the toolbar is closed, show the t
 **Modifications I've made**
  - Removed the 4-finger contrast filter gesture
 
-### 2. hideDevModeIcon.qmd
+### 3. hideDevModeIcon.qmd
 Hide the developer mode icon next to the battery icon.
 
-### 3. hideZoomIndicator.qmd
+### 4. hideZoomIndicator.qmd
 Auto-hide zoom indicator after 4 seconds (like the scrollbars).
 
-### 4. miniLightSleep.qmd
+### 5. miniLightSleep.qmd
 **Original**: https://github.com/StarNumber12046/xovi-qmd-extensions
 
 Replaces the light sleep banner with text saying "Sleeping" at the top right of the screen
@@ -45,10 +48,10 @@ Replaces the light sleep banner with text saying "Sleeping" at the top right of 
 - Changed text from "Zzz..." to "Sleeping"
 - Added white background to the sleeping text
 
-### 5. preventNotebookZoomOut.qmd
+### 6. preventNotebookZoomOut.qmd
 Forces all notebook pages to start at 1x zoom with optional horizontal offset. Only affects notebooks, only affects portrait orientation. Designed for the Paper Pro Move.
 
-### 6. quickSettingsScreenshot.qmd
+### 7. quickSettingsScreenshot.qmd
 Adds a screenshot button to the quick settings menu.  
 Screenshots will be placed in `/home/root/screenshots`.  
 _See required repos for supported devices._
@@ -58,7 +61,7 @@ Requires:
 - [framebuffer-spy](https://github.com/asivery/rm-xovi-extensions)
 - [xovi-message-broker](https://github.com/asivery/rm-xovi-extensions)
 
-### 7. unlockMethodsContent.qmd
+### 8. unlockMethodsContent.qmd
 Bypass subscription check for using on-device Methods templates and documents.
 
 ## License
