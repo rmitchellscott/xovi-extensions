@@ -1,6 +1,5 @@
 ; Mitchell Scott (https://github.com/rmitchellscott)
 ; SPDX-License-Identifier: MIT
-; Modified: 2025-11-02T19:06:14Z
 
 AFFECT [[6501701016050907599]]
     TRAVERSE [[6502786168]] > [[7081293658967]]#[[7082882068103]]

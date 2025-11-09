@@ -1,6 +1,5 @@
 ; Mitchell Scott (https://github.com/rmitchellscott)
 ; SPDX-License-Identifier: MIT
-; Modified: 2025-11-03T00:39:35Z
 
 ; Core page creation when adding pages
 AFFECT [[11797611520953530268]]
@@ -27,7 +26,6 @@ END AFFECT
 ; Template application and quicksheet creation
 AFFECT [[8850026134298937527]]
     TRAVERSE [[8397993708429497603]]#[[254540341572282132]]
-        ; Patch addQuicksheet function (at root level)
         REBUILD [[17550284043068430536]]
             LOCATE BEFORE { ~&4577806659545151269&~.~&254543146496699612&~ }
             REMOVE LOCATED

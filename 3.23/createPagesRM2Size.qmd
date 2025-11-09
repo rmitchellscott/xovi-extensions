@@ -1,8 +1,7 @@
 ; Mitchell Scott (https://github.com/rmitchellscott)
 ; SPDX-License-Identifier: MIT
-; Modified: 2025-11-03T02:28:14Z
 
-; Patch 1: PagesActions.qml - Core page creation when adding pages
+; Core page creation when adding pages
 AFFECT [[11797611520953530268]]
     TRAVERSE [[6502786168]]#[[496312708941723703]]
         REBUILD [[14161682563420561297]]
@@ -13,7 +12,7 @@ AFFECT [[11797611520953530268]]
     END TRAVERSE
 END AFFECT
 
-; Patch 2: DocumentView.qml - Page creation from document view
+; Page creation from document view
 AFFECT [[1224665461898798997]]
     TRAVERSE [[8397993708429497603]]#[[15793094956877902211]]
         REBUILD [[233720993465423]]
@@ -24,10 +23,9 @@ AFFECT [[1224665461898798997]]
     END TRAVERSE
 END AFFECT
 
-; Patch 3: Navigator.qml - Template application and quicksheet creation
+; Template application and quicksheet creation
 AFFECT [[8850026134298937527]]
     TRAVERSE [[8397993708429497603]]#[[254540341572282132]]
-        ; Patch addQuicksheet function (at root level)
         REBUILD [[17550284043068430536]]
             LOCATE BEFORE { ~&4577806659545151269&~.~&254543146496699612&~ }
             REMOVE LOCATED
@@ -35,7 +33,6 @@ AFFECT [[8850026134298937527]]
         END REBUILD
     END TRAVERSE
 
-    ; Patch setTemplateForPage call in documentSettings.onCreateEntry signal handler
     TRAVERSE [[8397993708429497603]]#[[254540341572282132]] > [[3215456617438411154]]#[[14771436684287383225]]
         REBUILD [[4463636820780310028]]
             LOCATE BEFORE { ~&4577806659545151269&~.~&254543146496699612&~ }
@@ -45,7 +42,7 @@ AFFECT [[8850026134298937527]]
     END TRAVERSE
 END AFFECT
 
-; Patch 4: HwcDialog.qml - Handwriting conversion to text
+; Handwriting conversion to text
 AFFECT [[11265320901603507725]]
     TRAVERSE [[8397993708429497603]]#[[8399273526924993769]]
         REBUILD [[1152593634589442790]]
