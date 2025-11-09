@@ -24,6 +24,10 @@ Designed for use alongside preventNotebookZoomOut.qmd on the Move.
 Override new page creation to use reMarkable 2 dimensions. Designed to allow better interoperability between Move and reMarkable 2.  
 Designed for use alongside preventNotebookZoomOut.qmd on the Move.
 
+### fixPageNumberOnSlider.qmd
+3.23 only.  
+Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.
+
 ### fixQuickSettingsTempSeparator.qmd
 Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.
 
