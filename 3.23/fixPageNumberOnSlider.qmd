@@ -1,6 +1,5 @@
 ; Mitchell Scott (https://github.com/rmitchellscott)
 ; SPDX-License-Identifier: MIT
-; Modified: 2025-11-09T16:37:30Z
 
 VERSION [[17607111715072197239]]
 
