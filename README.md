@@ -41,7 +41,10 @@ Auto-hide zoom indicator after 4 seconds (like the scrollbars).
 Forces all notebook pages to start at 1x zoom with optional horizontal offset. Only affects notebooks, only affects portrait orientation. Designed for the Paper Pro Move.
 
 ### quickSettingsScreenshot.qmd
-Adds a screenshot button to the quick settings menu.  
+Adds a screenshot button to the quick settings menu. 
+- normal press: closes the menu and take a screenshot.
+- long-press: closes the menu and take a screenshot with a 5 second delay.
+
 Screenshots will be placed in `/home/root/screenshots`.  
 _See required repos for supported devices._
 
