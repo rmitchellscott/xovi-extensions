@@ -79,7 +79,7 @@ PDF links in the tap area cannot be used while the toolbar is closed, show the t
 Hide the page numbers at the bottom of the screen when the toolbar is hidden. On the very last page the page numbers are still shown. To show the page numbers slide up from the bottom to show the page slider.
 
 **Modifications I've made**
- - Fix for 3.23
+ - Fix for page number not appearing when the toolbar is open or in the page slider on 3.23
 
 ### miniLightSleep.qmd
 **Original**: https://github.com/StarNumber12046/xovi-qmd-extensions
